@@ -1,0 +1,2 @@
+# detalis
+mern stack application
